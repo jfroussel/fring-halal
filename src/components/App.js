@@ -1,11 +1,12 @@
 import React, { Component } from 'react'
 import './App.css'
+import Home from '../containers/Home'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>fring-halal home page</h1>
+        <Home />
       </div>
     );
   }
