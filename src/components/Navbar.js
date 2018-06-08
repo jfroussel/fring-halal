@@ -44,7 +44,7 @@ class Navbar extends Component {
                             <a className="nav-link" href="">NOUS CONTACTER</a>
                         </li>
                         <li className="nav-item pl-5 pr-5">
-                            <a className="nav-link" style={style.connect} href=""><i class="fas fa-user-circle fa-2x" style={style.icon}></i></a>
+                            <a className="nav-link" style={style.connect} href=""><i className="fas fa-user-circle fa-2x" style={style.icon}></i></a>
                         </li>
                     </ul>
                 </div>
